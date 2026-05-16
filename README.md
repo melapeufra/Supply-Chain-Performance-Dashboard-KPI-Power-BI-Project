@@ -12,6 +12,8 @@ The dashboard consolidates supply chain and operational data into a centralized 
 * Monthly trends
 * Root cause analysis
 * Weighted adherence metrics
+  
+![Dashboard](hidden.jpg)
 
 This project demonstrates practical skills in:
 
